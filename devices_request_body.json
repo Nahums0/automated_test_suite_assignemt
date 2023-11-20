@@ -1,0 +1,29 @@
+{
+  "suiteName": "Test Suite",
+  "exeBucketUri": "https://...",
+  "tenantId": 1,
+  "dbUrl": "https://...",
+
+  "devices": [
+    {
+      "osType": "Windows",
+      "osVersion": "Server 2017",
+      "count": 14
+    },
+    {
+      "osType": "Linux",
+      "osVersion": "Ubuntu 22.02",
+      "count": 6
+    },
+    {
+      "osType": "Linux",
+      "osVersion": "Ubuntu 22.02",
+      "count": 2
+    },
+    {
+      "osType": "Linux",
+      "osVersion": "Ubuntu 22.02",
+      "count": 1
+    }
+  ]
+}
